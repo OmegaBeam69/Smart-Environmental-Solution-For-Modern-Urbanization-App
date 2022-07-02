@@ -1,2 +1,16 @@
-# Smart-Environmental-Solution-For-Modern-Urbanization-App
-The main goal of "Smart Environmental Solution For Modern Urbanization" was to aware people about their surrounding environmental pollutions. At present world, Air Pollution is one of the most common and deadly. The main culprit behind air pollution is humans. The motive of this project is to work as communication medium between nearest cleaning authorities and normal users. Respected android application will provide real time air monitoring data collected by IoT device.
+# sign_up
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
