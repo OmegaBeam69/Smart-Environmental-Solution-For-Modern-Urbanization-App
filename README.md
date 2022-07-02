@@ -1,0 +1,2 @@
+# Smart-Environmental-Solution-For-Modern-Urbanization-App
+The main goal of "Smart Environmental Solution For Modern Urbanization" was to aware people about their surrounding environmental pollutions. At present world, Air Pollution is one of the most common and deadly. The main culprit behind air pollution is humans. The motive of this project is to work as communication medium between nearest cleaning authorities and normal users. Respected android application will provide real time air monitoring data collected by IoT device.
